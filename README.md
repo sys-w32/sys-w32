@@ -52,6 +52,6 @@ I am a cybersecurity professional specializing in **Red Teaming** with a strong 
 
 ## 📊 Performance Metrics
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[sys-w32]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[sys-w32]&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sys-w32&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sys-w32&layout=compact&theme=radical" />
 </p>
