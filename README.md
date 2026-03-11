@@ -40,7 +40,7 @@ I am a cybersecurity professional specializing in **Red Teaming** with a strong 
 * **Description:** Utilizing **Pandas** and **R** to create a visual narrative of the CISA Known Exploited Vulnerabilities (KEV) Catalog. This project identifies historical trends in exploitation to predict future high-risk vectors.
 * **Tech:** Python, R, Data Visualization.
 
-### ⚡ Terminal-Based CVE Scanner
+### ⚡ Terminal-Based CVE Scanner (In Progress)
 * **Description:** A high-speed security scanner integrating **Censys** and **Wappalyzer** APIs. Designed for rapid reconnaissance and tech-stack fingerprinting directly from the CLI.
 * **Tech:** Python, API Integration, Bash.
 
