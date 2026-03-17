@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Professional Summary
+## 🪽WhoAmI
 I am a cybersecurity professional specializing in **Red Teaming** with a strong foundation in **Blue Lab** environments. My work focuses on bridging the gap between traditional security auditing and modern AI-driven automation. Currently, I am scaling my expertise in **Langchain** and **Model Context Protocols (MCPs)** to build intelligent, autonomous security tooling.
 
 ---
