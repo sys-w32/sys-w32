@@ -44,7 +44,7 @@ I am a cybersecurity professional specializing in **Red Teaming** with a strong 
 * **Description:** A high-speed security scanner integrating **Censys** and **Wappalyzer** APIs. Designed for rapid reconnaissance and tech-stack fingerprinting directly from the CLI.
 * **Tech:** Python, API Integration, Bash.
 
-### 🏗️ MCP-Pentest (mcp_lab)
+### 🏗️ MCP-Pentest (mcp_lab) ( In Progress )
 * **Description:** Developing an **AI-driven pentesting environment** using the Model Context Protocol to allow LLMs to interact securely with local security tools for automated auditing.
 * **Tech:** Langchain, MCP, Docker.
 
