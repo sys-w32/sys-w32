@@ -45,6 +45,6 @@ I am a cybersecurity professional specializing in **Red Teaming** with a strong 
 * **Tech:** Python, API Integration, Bash.
 
 ### 🏗️ MCP-Pentest (mcp_lab) ( In Progress )
-* **Description:** Developing an **AI-driven pentesting environment** using the Model Context Protocol to allow LLMs to interact securely with local security tools for automated auditing.
+* **Description:** Developing an **AI-driven pentesting environment** using the Model Context Protocol to allow LLMs to interact securely with local security tools for automated auditing. I am taking time to study more about AI and deepening knowlegdge about MCP, LangChain and LLM internals! :)
 * **Tech:** Langchain, MCP, Docker.
 
